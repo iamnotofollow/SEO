@@ -15,4 +15,4 @@ Technique that the search engines do not approve and attempt to minimize the eff
 - Attempting ranking improvements that are disapproved by the search engines
 - Redirecting users from a page that is built for search engines to one that is more human friendly
 - Redirecting users to a page that is different from the page that the search engine ranked
-- #### `Cloaking tactics` #### is serving one version of a page to search engine spider/bots and showing another version to human visitors
+- ##### `Cloaking tactics` is serving one version of a page to search engine spider/bots and showing another version to human visitors
